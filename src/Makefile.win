@@ -1,0 +1,2 @@
+cave: *.as
+	C:\FlexSDK\bin\mxmlc -static-link-runtime-shared-libraries -output ../bin/Cave.swf Cave.as
